@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+	<rooms>
+		<blackboard>
+			<materials>
+				<metal />
+				<blastic />
+			</materials>
+		</blackboard>
+		<tables>
+			<materials>
+				<wood />
+				<metal />
+			</materials>
+		</tables>
+		<chairs>
+			<materials>
+				<wood />
+				<metal />
+			</materials>
+		</chairs>
+		<desk>
+			<materials>
+				<wood />
+				<metal />
+			</materials>
+		</desk>
+		<shelf>
+			<materials>
+				<wood />
+			</materials>
+		</shelf>
+		<lights>
+			<leds />
+			<materials>
+				<metal />
+			</materials>
+		</lights>
+		<windows>
+			<materials>
+				<glass />
+				<stone />
+				<metal />
+			</materials>
+		</windows>
+	</rooms>
+</school>
